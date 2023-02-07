@@ -1,0 +1,40 @@
+body{
+    background-color: crimson;
+}
+button{
+    text-align: center;
+    background-color: cornsilk;
+    font-size: 20px;
+}
+button:hover{
+    background-color: cornsilk;
+    color: aqua;
+    border: 2px solid aqua;
+}
+.btn{
+    padding-bottom: 2%;
+}
+.container{
+    background-color: cornsilk;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+    padding: 3%;
+}
+h1{
+    color: turquoise;
+    text-align: center;
+    font-size: 80px;
+    font-family: cursive;
+}
+p{
+    color: turquoise;
+    font-family: cursive;
+    font-size: 50px;
+}
+
+
